@@ -1,16 +1,20 @@
-# Hi 👋 I'm Pratap Kumar Das
+<h1 align="center">Hi 👋, I'm Pratap Kumar Das</h1>
+<h3 align="center">MCA 2nd Year Student | Web Development Learner</h3>
 
-🎓 MCA 2nd Year Student at **GIFT Autonomous College**  
-💻 Web Development Learner  
-🌱 Learning frontend & backend technologies
+<p align="center">
+🎓 GIFT Autonomous College <br>
+💻 Passionate about Web Technologies <br>
+🚀 Learning by Building Projects
+</p>
 
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 MCA (2nd Year) student
-- 💡 Interested in Web Development
-- 🛠️ Learning by building real projects
-- 🌍 Academic project on Travel & Tourism Management System
+- 🎓 MCA 2nd Year student at **GIFT Autonomous College**
+- 🌱 Currently learning **Frontend & Backend Development**
+- 💡 Interested in building real-world web applications
+- 📌 Academic project on **Travel & Tourism Management System**
+- 🏨 Worked on **Hotel Management System**
 
 ---
 
@@ -25,44 +29,51 @@
 
 ---
 
-### 🧰 Tools
-- VS Code  
-- Git & GitHub  
-- XAMPP  
-- MySQL (Basic)
+### 🧰 Tools & Platforms
+- 🖥️ VS Code  
+- 🔧 Git & GitHub  
+- 🗄️ XAMPP  
+- 💾 MySQL (Basic)
 
 ---
 
-## 📌 Projects
+## 📂 Projects
 
 ### ✈️ Travel & Tourism Management System
-- Web-based project for managing travel services
-- Includes **Hotel Management System**
-- Technologies: HTML, CSS, JavaScript, PHP
+- 🌍 Web-based travel management application
+- 🏨 Includes **Hotel Management System**
+- 🛠️ Technologies Used:
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
 
 ---
 
-## 🪜 Learning Journey
-- Web fundamentals
-- Frontend design
-- Backend logic using PHP
-- Version control with Git & GitHub
-- Project documentation
+## 📖 Learning Journey
+- ✔️ Web development fundamentals
+- ✔️ Frontend design using HTML & CSS
+- ✔️ Backend logic with PHP
+- ✔️ Version control using Git & GitHub
+- ✔️ Project documentation
 
 ---
 
 ## 🎯 Career Goals
-- Become a skilled Web Developer
-- Improve backend development skills
-- Build real-world applications
-- Learn advanced technologies
+- 🚀 Become a skilled Web Developer
+- 🧠 Strengthen backend knowledge
+- 📚 Learn advanced web technologies
+- 💼 Build industry-level projects
 
 ---
 
-## 📫 Contact
-- GitHub: **@pratap-369**
-- College: GIFT Autonomous College
+## 📫 Connect With Me
+- 💻 GitHub: **@pratap-369**
+- 🎓 College: GIFT Autonomous College
 
 ---
 
-⭐ Thank you for visiting my profile!
+<p align="center">
+✨ Thank you for visiting my profile ✨ <br>
+⭐ Feel free to explore my repositories
+</p>
